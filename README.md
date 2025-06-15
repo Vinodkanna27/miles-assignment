@@ -39,7 +39,7 @@ Material Design
 
 Clone repo:
 
-git clone https://github.com/yourusername/miles_edu_app.git
+git clone https://github.com/Vinodkanna27/miles-assignment.git
 cd miles_edu_app
 
 Install dependencies:
