@@ -40,9 +40,15 @@ dependencies:
   google_fonts: ^6.1.0
   flutter_riverpod: ^2.6.1
   cloud_firestore: ^5.6.9
+  flutter_launcher_icons: ^0.14.4
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
